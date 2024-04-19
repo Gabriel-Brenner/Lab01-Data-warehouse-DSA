@@ -3,6 +3,7 @@ Lab 01 - Data Warehouses: Design and implementation
 Para esse lab estaremos usando a ferramenta Star UML. Essa ferramenta permite criar diagramas de entidade e relacionamento;
 
 -Modelo de negócio: Empresa de outsourcing;
+
 1° Entidade: Funcionários
 Atributos: Func_ID [PK]:INTEGER, Nome:CHAR, Departamento:CHAR [FK], Especialidade:CHAR, Nível:CHAR, Remoto_Local:CHAR, Supervisor:CHAR, Avaliação_atual:INTEGER, Avaliação_Anterior:INTEGER, Data_Admissão:DATE, Data_Demissão:DATE
 
